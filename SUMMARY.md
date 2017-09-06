@@ -1,7 +1,5 @@
 # Summary
 
-* [Introduction](readme.md)
-
 ## Books
 
 * [web用户体验解构](/BooksNotes/web用户体验解构.md)

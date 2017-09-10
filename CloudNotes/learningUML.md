@@ -78,8 +78,8 @@ States
 Transitions
 States in Software Advanced State Behavior Composite States Advanced Pseudostates Signals
 Protocol State Machines What’s Next?
-                                                                                                                                        ### 15.
-###15. Modeling Your Deployed System: Deployment Diagrams Deploying a Simple System Deployed Software: Artifacts What Is a Node? Hardware and Execution Environment Nodes A. B. C.
+
+### 15. Modeling Your Deployed System: Deployment Diagrams Deploying a Simple System Deployed Software: Artifacts What Is a Node? Hardware and Execution Environment Nodes A. B. C.
 Index
 Communication Between Nodes Deployment Specifications
 When to Use a Deployment Diagram What’s Next?

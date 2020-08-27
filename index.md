@@ -1,4 +1,4 @@
-# Summary
+# ндубд©б╪
 
 ## FrameKits
 * [116VisualContentIdeas4yourBiz.md](FrameKits/116VisualContentIdeas4yourBiz.md)

@@ -15,7 +15,7 @@ def get_file_context():
     return context_dict
 
 def to_md(dict):
-    with open('index.md', 'w') as f:
+    with open('index.md', 'w', encoding='utf-8') as f:
         f.write('# 文章目录\n')
         for key, value in dict.items():
             f.write(f'\n## {key}\n')

@@ -1,4 +1,4 @@
-# ÎÄÕÂÄ¿Â¼
+# æ–‡ç« ç›®å½•
 
 ## FrameKits
 * [116VisualContentIdeas4yourBiz.md](FrameKits/116VisualContentIdeas4yourBiz.md)
@@ -7,35 +7,35 @@
 * [Intro2DesignThinking.md](FrameKits/Intro2DesignThinking.md)
 
 ## Ideas
-* [Êé¼®¾µÏñ.md](Ideas/Êé¼®¾µÏñ.md)
-* [ÔöÇ¿ÈËÀà.md](Ideas/ÔöÇ¿ÈËÀà.md)
-* [ÓéÀÖÖÁËÀ.md](Ideas/ÓéÀÖÖÁËÀ.md)
-* [ÒÕÊõÆğÔ´Ö®±æ.md](Ideas/ÒÕÊõÆğÔ´Ö®±æ.md)
-* [Éè¼Æ×ÛÊö.md](Ideas/Éè¼Æ×ÛÊö.md)
+* [ä¹¦ç±é•œåƒ.md](Ideas/ä¹¦ç±é•œåƒ.md)
+* [å¢å¼ºäººç±».md](Ideas/å¢å¼ºäººç±».md)
+* [å¨±ä¹è‡³æ­».md](Ideas/å¨±ä¹è‡³æ­».md)
+* [è‰ºæœ¯èµ·æºä¹‹è¾¨.md](Ideas/è‰ºæœ¯èµ·æºä¹‹è¾¨.md)
+* [è®¾è®¡ç»¼è¿°.md](Ideas/è®¾è®¡ç»¼è¿°.md)
 
 ## Methods
 * [learningUML.md](Methods/learningUML.md)
 * [productDesign.md](Methods/productDesign.md)
 * [SkillMap.md](Methods/SkillMap.md)
 * [theMindTools.md](Methods/theMindTools.md)
-* [UML½¨Ä£±Ê¼Ç.md](Methods/UML½¨Ä£±Ê¼Ç.md)
-* [½»»¥Éè¼Æ¹æ·¶.md](Methods/½»»¥Éè¼Æ¹æ·¶.md)
-* [²úÆ·ÖªÊ¶¼Æ»®.md](Methods/²úÆ·ÖªÊ¶¼Æ»®.md)
-* [¹¤¾ßÕûÀí.md](Methods/¹¤¾ßÕûÀí.md)
+* [UMLå»ºæ¨¡ç¬”è®°.md](Methods/UMLå»ºæ¨¡ç¬”è®°.md)
+* [äº¤äº’è®¾è®¡è§„èŒƒ.md](Methods/äº¤äº’è®¾è®¡è§„èŒƒ.md)
+* [äº§å“çŸ¥è¯†è®¡åˆ’.md](Methods/äº§å“çŸ¥è¯†è®¡åˆ’.md)
+* [å·¥å…·æ•´ç†.md](Methods/å·¥å…·æ•´ç†.md)
 
 ## Readings
 * [Get Hooked.md](Readings/Get Hooked.md)
 * [LearningUML.md](Readings/LearningUML.md)
-* [webÓÃ»§ÌåÑé½â¹¹.md](Readings/webÓÃ»§ÌåÑé½â¹¹.md)
-* [²úÆ·¾­ÀíĞŞÁ¶Ö®µÀ.md](Readings/²úÆ·¾­ÀíĞŞÁ¶Ö®µÀ.md)
-* [Î§³Ç.md](Readings/Î§³Ç.md)
-* [´óÊı¾İÓªÏú·ÖÎö±Ê¼Ç.md](Readings/´óÊı¾İÓªÏú·ÖÎö±Ê¼Ç.md)
-* [Ñ§»áÌáÎÊ.md](Readings/Ñ§»áÌáÎÊ.md)
-* [Êı¾İ·ÖÎö.md](Readings/Êı¾İ·ÖÎö.md)
-* [Ò×ÓÃÎªÍõ.md](Readings/Ò×ÓÃÎªÍõ.md)
-* [°ÙÄê¹Â¶À.md](Readings/°ÙÄê¹Â¶À.md)
-* [Ë²¼äÖ®ÃÀ.md](Readings/Ë²¼äÖ®ÃÀ.md)
-* [ÏµÍ³·ÖÎöÓëÉè¼Æ.md](Readings/ÏµÍ³·ÖÎöÓëÉè¼Æ.md)
-* [Í³¼ÆÑ§.md](Readings/Í³¼ÆÑ§.md)
-* [½õĞåÀ¶Í¼.md](Readings/½õĞåÀ¶Í¼.md)
-* [³¤Î²ÀíÂÛ.md](Readings/³¤Î²ÀíÂÛ.md)
+* [webç”¨æˆ·ä½“éªŒè§£æ„.md](Readings/webç”¨æˆ·ä½“éªŒè§£æ„.md)
+* [äº§å“ç»ç†ä¿®ç‚¼ä¹‹é“.md](Readings/äº§å“ç»ç†ä¿®ç‚¼ä¹‹é“.md)
+* [å›´åŸ.md](Readings/å›´åŸ.md)
+* [å¤§æ•°æ®è¥é”€åˆ†æç¬”è®°.md](Readings/å¤§æ•°æ®è¥é”€åˆ†æç¬”è®°.md)
+* [å­¦ä¼šæé—®.md](Readings/å­¦ä¼šæé—®.md)
+* [æ•°æ®åˆ†æ.md](Readings/æ•°æ®åˆ†æ.md)
+* [æ˜“ç”¨ä¸ºç‹.md](Readings/æ˜“ç”¨ä¸ºç‹.md)
+* [ç™¾å¹´å­¤ç‹¬.md](Readings/ç™¾å¹´å­¤ç‹¬.md)
+* [ç¬é—´ä¹‹ç¾.md](Readings/ç¬é—´ä¹‹ç¾.md)
+* [ç³»ç»Ÿåˆ†æä¸è®¾è®¡.md](Readings/ç³»ç»Ÿåˆ†æä¸è®¾è®¡.md)
+* [ç»Ÿè®¡å­¦.md](Readings/ç»Ÿè®¡å­¦.md)
+* [é”¦ç»£è“å›¾.md](Readings/é”¦ç»£è“å›¾.md)
+* [é•¿å°¾ç†è®º.md](Readings/é•¿å°¾ç†è®º.md)

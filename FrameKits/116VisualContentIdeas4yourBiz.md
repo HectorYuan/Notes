@@ -35,6 +35,7 @@
 - pattern 
 - template 
 - worksheet 
+
 ### brand images 
 
 - banner 
@@ -42,7 +43,6 @@
 - badge 
 - ad 
 - brand style guide 
-
 - cover image 
 - promo image 
 - blog post image 
@@ -113,6 +113,7 @@
 - hyperlapse 
 - flipagram 
 - GIF 
+
 ### other images 
 
 - media kit 

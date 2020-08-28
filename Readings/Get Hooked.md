@@ -44,4 +44,3 @@
  1.理解问题：用户需求，技术可行性，市场空间{desirable:user, profitable:market,feasible:technolegy}
  2.定义问题：定位，用户旅途，产品指标
 
-![Office](office.jpg)
